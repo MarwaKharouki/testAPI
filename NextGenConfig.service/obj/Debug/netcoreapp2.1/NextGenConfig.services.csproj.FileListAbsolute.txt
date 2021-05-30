@@ -1,0 +1,15 @@
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\bin\Debug\netcoreapp2.1\NextGenConfig.services.deps.json
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\bin\Debug\netcoreapp2.1\NextGenConfig.services.runtimeconfig.json
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\bin\Debug\netcoreapp2.1\NextGenConfig.services.runtimeconfig.dev.json
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\bin\Debug\netcoreapp2.1\NextGenConfig.services.dll
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\bin\Debug\netcoreapp2.1\NextGenConfig.services.pdb
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\obj\Debug\netcoreapp2.1\NextGenConfig.services.csprojAssemblyReference.cache
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\obj\Debug\netcoreapp2.1\NextGenConfig.services.csproj.CoreCompileInputs.cache
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\obj\Debug\netcoreapp2.1\NextGenConfig.services.RazorAssemblyInfo.cache
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\obj\Debug\netcoreapp2.1\NextGenConfig.services.RazorAssemblyInfo.cs
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\obj\Debug\netcoreapp2.1\NextGenConfig.services.AssemblyInfoInputs.cache
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\obj\Debug\netcoreapp2.1\NextGenConfig.services.AssemblyInfo.cs
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\obj\Debug\netcoreapp2.1\NextGenConfig.services.RazorTargetAssemblyInfo.cache
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\obj\Debug\netcoreapp2.1\NextGenConfig.services.dll
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.service\obj\Debug\netcoreapp2.1\NextGenConfig.services.pdb

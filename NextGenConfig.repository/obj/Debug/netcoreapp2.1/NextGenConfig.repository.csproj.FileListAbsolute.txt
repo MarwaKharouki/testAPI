@@ -1,0 +1,3 @@
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.repository\obj\Debug\netcoreapp2.1\NextGenConfig.repository.csproj.CoreCompileInputs.cache
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.repository\obj\Debug\netcoreapp2.1\NextGenConfig.repository.AssemblyInfoInputs.cache
+C:\Users\masakh\source\repos\NextGenConfig\NextGenConfig.repository\obj\Debug\netcoreapp2.1\NextGenConfig.repository.AssemblyInfo.cs
